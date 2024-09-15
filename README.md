@@ -18,7 +18,6 @@ This project showcases handling various types of notifications, implementing nav
 - **Dependency Injection**: Dagger-Hilt
 - **Navigation**: Jetpack Navigation Component with support for deep links
 - **Notifications**: Custom notification handling for different API levels
-- **Retrofit/OkHttp**: For network calls (if applicable)
 
 ## Project Structure
 
@@ -27,6 +26,13 @@ This project showcases handling various types of notifications, implementing nav
 - **Deep Linking**: Allows the app to be launched into specific parts of the app when users click notifications or external links.
 
 ## Screenshots
+
+![notifi_6](https://github.com/user-attachments/assets/e03c1908-3a2d-427b-b5c6-c9a3ccf1d77c)
+![Notifi_1](https://github.com/user-attachments/assets/c12d2f48-cd38-401c-baf3-b79351c504b7)
+![notifi_2](https://github.com/user-attachments/assets/27c86cd2-a0a2-42be-99f8-a57d41709e5f)
+![notifi_3](https://github.com/user-attachments/assets/97a233f9-a118-45a1-8b0b-ae27f1c24f16)
+![notifi_4](https://github.com/user-attachments/assets/ba8f6fd2-7c2f-4646-bb92-fa60f76f5b82)
+![notifi_5](https://github.com/user-attachments/assets/a37bd7e2-d8c5-4137-aaf9-72d7bd374228)
 
 
 ## Setup Instructions
